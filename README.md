@@ -21,8 +21,8 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 ### Links
 
-- Solution URL: [Github repo](https://github.com/itsmemohit/fm-profile-card-component)
-- Live Site URL: [Netlify live site url](https://peaceful-stroopwafel-16745e.netlify.app/)
+- Solution URL: [Github repo](https://github.com/itsmemohit/fm-Base-apparel-coming-soon)
+- Live Site URL: [Netlify live site url](https://cerulean-froyo-8b62fb.netlify.app/)
 
 ## My process
 
